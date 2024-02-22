@@ -1,4 +1,6 @@
 # Movies
+You can view the live demo of this project [here](https://movies-search-watch-list.netlify.app/).
+
 A React web application for movie enthusiasts, allowing users to search for movies, view descriptions and ratings from a real API, and manage a personalized watched list with ratings.
 Project Name: Movie
 
